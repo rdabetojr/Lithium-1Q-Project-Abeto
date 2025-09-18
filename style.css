@@ -1,0 +1,146 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(184, 202, 218);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.header {
+    background-color: rgb(62, 79, 68);
+    padding: 10px;
+    display: flex;
+}
+
+.header img {
+    width: 50px;
+    height: 50px;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-right: auto;
+}
+
+.navactive a{
+    color: rgb(36, 181, 179, 0.863);
+}
+
+.content {
+    margin-left: 130px;
+    margin-right: 130px;
+}
+
+.section1 h1 {
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.section1 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.section2 {
+    display:flex;
+    text-align: 80px;
+    text-align: center;
+    text-align: justify;
+}
+
+.section30 {
+    display: flex;
+    margin-right: 80px;
+}
+
+.section31 {
+    display: flex;
+    margin-right: 80px;
+}
+
+.section4 {
+    margin-top: 50px;
+    display: flex;
+    margin-left: 80px;
+
+}
+
+.section5 {
+    display: flex;
+    text-align: center;
+    text-align: justify; 
+}
+
+.table {
+    margin-top: 50px;
+    margin-bottom: 90px;
+    display: flex;
+    justify-content: center;
+}
+
+.content1 {
+    text-align: justify;
+    margin-left: 30px;
+    margin-top: 80px;
+    padding-top: 60px;
+    
+}
+
+.content2 {
+    text-align: justify;
+    margin-right: 30px;
+    margin-top: 50px;
+}
+
+
+.section1 h1 {
+    margin-left: 20px;
+}
+
+.section2 h2 {
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.section5 h3{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.section1 img {
+    height: 500px;
+    align-self: center;
+}
+
+.section30 img {
+    margin-top: 80px;
+    margin-left: 80px;
+    margin-bottom: 80px;
+    height: auto;
+    width: 450px;
+}
+
+.section31 img {
+    margin-top: 80px;
+    margin-left: 80px;
+    margin-bottom: 80px;
+    height: auto;
+    width: 600px;
+}
+
+.section4 img {
+    margin-right: 80px;
+    margin-bottom: 80px;
+    height: auto;
+    width: 600px;
+}
+
+.references {
+    font-family: 'Times New Roman', Times, serif;
+}
