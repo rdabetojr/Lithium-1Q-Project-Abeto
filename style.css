@@ -1,6 +1,9 @@
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: rgb(184, 202, 218);
+    background-image: url('https://img.freepik.com/premium-vector/back-school-pattern-background-set-different-drawings-related-school-seamless-vector-texture_153454-7025.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
 }
 
 a {
@@ -144,3 +147,4 @@ a {
 .references {
     font-family: 'Times New Roman', Times, serif;
 }
+
